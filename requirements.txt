@@ -1,0 +1,4 @@
+# Initial, unpinned requirements inferred from the supplied notebooks.
+numpy
+opencv-python
+moviepy
